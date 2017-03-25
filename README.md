@@ -1,4 +1,5 @@
 # Algolia Search API Client for Go
+# Demo
 
 
 
